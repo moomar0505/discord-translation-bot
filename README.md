@@ -7,7 +7,7 @@ A discord bot that translates a message to the desired language based on the typ
 pip install google_trans_new
 ```
 
-2. Replace the **BOT_TOKEN_HERE** string with the actual discord bot token in the *translator.py* file.
+2. Replace the **BOT_TOKEN_HERE** string with the actual discord bot token in the [translator.py](https://github.com/moomar0505/usr-discord-translation-bot/blob/main/translator.py) file.
 ```python
 token = "BOT_TOKEN_HERE"
 ```
