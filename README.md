@@ -1,5 +1,5 @@
 # Discord Translation Bot
-A very basic discord bot that translates a message to the desired language based on the type of reaction emoji. For example, reacting to a message with the 'France' flag emoji would translate the message to French from any other language.
+A very basic discord bot that translates a message to the desired language based on the type of reaction emoji used. For example, reacting to a message with the 'France' flag emoji would translate the message to French from any other language.
 
 Note: We are utilizing the [google-trans-new](https://pypi.org/project/google-trans-new/) python library here. Follow the instructions below for Installation and Usage.
 
