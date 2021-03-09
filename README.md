@@ -18,9 +18,9 @@ python translator.py
 
 
 ## Contributing
-Pull requests are welcome. Only French, English, and Spanish are supported as of yet. Please help enhance the code to add more languages.
+Pull requests are welcome. 
 
-Please make sure to update tests as appropriate.
+Please help enhance the code to add more languages since only French, English, and Spanish are supported as of yet. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
