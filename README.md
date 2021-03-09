@@ -16,6 +16,9 @@ token = "BOT_TOKEN_HERE"
 python translator.py
 ```
 
+## Usage
+React to a message with the desired flag emoji to translate the message to the appropriate language. *Only French, Spanish and English supported as of 03/08/2021.*
+(https://github.com/moomar0505/usr-discord-translation-bot/blob/main/usage_image.JPG)
 
 ## Contributing
 Pull requests are welcome. 
