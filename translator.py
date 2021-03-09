@@ -1,3 +1,4 @@
+#translator.py
 import discord
 from google_trans_new import google_translator  
 
