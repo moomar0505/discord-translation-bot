@@ -3,16 +3,16 @@ A discord bot that translates a message to the desired language based on the typ
 
 ## Installation
 1. Install the **google_trans_new** package:
-```
+```python
 pip install google_trans_new
 ```
 
 2. Replace the **BOT_TOKEN_HERE** string with the actual discord bot token in the *translator.py* file.
-```
+```python
 token = "BOT_TOKEN_HERE"
 ```
 3. Run the bot:
-```python3
+```python
 python translator.py
 ```
 
