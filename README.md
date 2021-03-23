@@ -4,8 +4,9 @@ A very basic discord bot that translates a message to the desired language based
 Note: We are utilizing the [google-trans-new](https://pypi.org/project/google-trans-new/) python library here. Follow the instructions below for Installation and Usage.
 
 ## Installation
-1. Install the **google-trans-new** package:
+1. Install both **discord.py** and **google-trans-new** package:
 ```python
+pip install discord.py
 pip install google-trans-new
 ```
 
